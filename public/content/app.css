@@ -26,6 +26,23 @@ p{
   background-color: rgb(7, 7, 7);
 }
 
+.container
+{
+  background-color: grey;
+  text-decoration:dashed;
+  text-shadow: wheat;
+}
+
+fieldset{
+  background-color: grey;
+  box-shadow: 5px 10px 18px black;
+  width: 80%;
+  margin-left:100px;
+  
+}
+
+
+
 /*Footer*/
 
 
